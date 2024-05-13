@@ -1,0 +1,13 @@
+numpy
+validators
+torch
+spacy
+scikit-learn
+transformers
+streamlit
+sentencepiece
+beautifulsoup4
+nltk
+PyPDF2
+docx2txt
+rouge
