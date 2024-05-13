@@ -10,4 +10,23 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+🚀Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+🚀Huggingface Spaces : https://huggingface.co/spaces/prithivMLmods/Bart-Cnn
+
+🚀Docs for Space : git clone https://huggingface.co/spaces/prithivMLmods/Bart-Cnn
+
+## 👉 Entering the Content as Text / Docx / Pdf ...
+
+![alt text](assets/xy.png)
+
+## 🫙Processing the Content
+
+![alt text](assets/xz.png)
+
+.
+
+.
+
+.
+
