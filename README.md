@@ -10,6 +10,8 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
+![alt text](assets/21.png)
+
 🚀Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 🚀Huggingface Spaces : https://huggingface.co/spaces/prithivMLmods/Bart-Cnn
